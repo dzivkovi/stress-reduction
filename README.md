@@ -8,20 +8,20 @@ This repository contains a comprehensive analysis of natural approaches to manag
 
 - Subsequent documents generated in the same chat session:
 
-    - **[Liver Safety – What the Evidence Says](Liver%20Safety%20–%20What%20the%20Evidence%20Says.md)**
-    - **[Shopping Advice - Ashwagandha](Shopping%20Advice%20-%20Ashwagandha.md)**
-    - **[Shopping Advice - L-Theanine](Shopping%20Advice%20-%20L-Theanine.md)**
-    - **[Shopping Advice - Valerian Root](Shopping%20Advice%20-%20Valerian%20Root.md)**
+    - **[Liver Safety – What the Evidence Says](Liver%20Safety%20–%20What%20the%20Evidence%20Says.md.pdf)**
+    - **[Shopping Advice - Ashwagandha](Shopping%20Advice%20-%20Ashwagandha.md.pdf)**
+    - **[Shopping Advice - L-Theanine](Shopping%20Advice%20-%20L-Theanine.pdf)**
+    - **[Shopping Advice - Valerian Root](Shopping%20Advice%20-%20Valerian%20Root.md.pdf)**
 
 ## NotebookLM Artifacts
 
-- **[Briefing Document](Briefing%20Document.md)**
+- **[Briefing Document](Briefing%20Document.md.pdf)**
 
 - **Interactive Mind Map** - it cannot be exported, so here's a top-level/starting view:
 
     <img src="NotebookLM Mind Map.png" alt="Mood Support Mind Map" style="width: 100%; max-width: 100%; height: auto;" title="Anxiety and Mood Support - Top-Level Mind Map"/>
 
-    - **[Gentle Natural Supplements](Gentle%20Natural%20Supplements.md)** - node related explanation, a list of supplements with their recommended dosages and potential side effects.
+    - **[Gentle Natural Supplements](Gentle%20Natural%20Supplements.md.pdf)** - node related explanation, a list of supplements with their recommended dosages and potential side effects.
 
 
 - **Sharable Mind Map** - created using [Markmap](https://markmap.js.org/) tool and the output the NotebookLM prompt: `Create a mind map from the sources. List topics as central ideas, main branches, and sub-branches. Output it in Markdown format.`
@@ -35,9 +35,9 @@ This repository contains a comprehensive analysis of natural approaches to manag
     (Audio element not supported. Listen to the "Deep Dive" here: https://gabalpha.github.io/read-audio/?p=https://github.com/dzivkovi/stress-reduction/raw/main/Natural%20Mood,%20Sleep,%20and%20Anxiety%20Support%20Strategies.wav.)
     </audio>
 
-- **[Frequently Asked Questions](FAQ.md)** - automatically generated based on the research document source.
+- **[Frequently Asked Questions](FAQ.md.pdf)** - automatically generated based on the research document source.
 
-- **[Natural Supplements for Couples](Natural%20Supplements%20for%20couples.md)** - identifies common supplements after a secondary source (focused on partner's health), was added to NotebookLM.
+- **[Joint Wellness Supplement Analysis](Natural%20Supplements%20for%20couples.md.pdf)** - identifies supplements with overlapping benefits for both anxiety and heart health, generated after adding a secondary source (focused on partner's cardiac health) to NotebookLM.
 
 ## Disclaimer
 
